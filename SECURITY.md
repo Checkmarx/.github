@@ -1,6 +1,6 @@
 # Security
 
-Checkmarx takes the security of our software products and services seriously, including all of the open source code repositories managed through our Checkmarx organizations, such as [Checkmarx](https://github.com/Checkmarx), [checkmarx-ts](https://github.com/checkmarx-ts).
+Checkmarx takes the security of our software products and services seriously, including all of the open source code repositories managed through our Checkmarx organizations, such as [Checkmarx](https://github.com/Checkmarx).
 
 If you believe you have found a security vulnerability in any Checkmarx-owned repository, please report it to us through coordinated disclosure.
 
